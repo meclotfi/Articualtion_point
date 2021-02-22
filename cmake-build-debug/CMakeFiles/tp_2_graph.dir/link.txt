@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\tp_2_graph.dir/objects.a
+C:\Users\Meclotfi\Downloads\Programs\MinGW\bin\ar.exe cr CMakeFiles\tp_2_graph.dir/objects.a @CMakeFiles\tp_2_graph.dir\objects1.rsp
+C:\Users\Meclotfi\Downloads\Programs\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\tp_2_graph.dir/objects.a -Wl,--no-whole-archive  -o tp_2_graph.exe -Wl,--out-implib,libtp_2_graph.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\tp_2_graph.dir\linklibs.rsp

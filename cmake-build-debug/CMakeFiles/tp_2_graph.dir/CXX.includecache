@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Meclotfi/Desktop/2SQ/Tpgo/TP/tp 2 graph/classes/Node.h
+vector
+-
+string
+-
+
+C:/Users/Meclotfi/Desktop/2SQ/Tpgo/TP/tp 2 graph/classes/UGraph.cpp
+fstream
+-
+UGraph.h
+C:/Users/Meclotfi/Desktop/2SQ/Tpgo/TP/tp 2 graph/classes/UGraph.h
+iostream
+-
+algorithm
+C:/Users/Meclotfi/Desktop/2SQ/Tpgo/TP/tp 2 graph/classes/algorithm
+set
+C:/Users/Meclotfi/Desktop/2SQ/Tpgo/TP/tp 2 graph/classes/set
+
+C:/Users/Meclotfi/Desktop/2SQ/Tpgo/TP/tp 2 graph/classes/UGraph.h
+Node.h
+C:/Users/Meclotfi/Desktop/2SQ/Tpgo/TP/tp 2 graph/classes/Node.h
+string.h
+C:/Users/Meclotfi/Desktop/2SQ/Tpgo/TP/tp 2 graph/classes/string.h
+map
+C:/Users/Meclotfi/Desktop/2SQ/Tpgo/TP/tp 2 graph/classes/map
+
